@@ -1,0 +1,25 @@
+.aboutContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.aboutimg {
+  width: 70%;
+  max-width: 600px;
+}
+
+.cardheading {
+  margin-right: 15px;
+  color: #551e53;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.cardpara {
+  color: #555555;
+  font-size: 15px;
+  text-align: center;
+}

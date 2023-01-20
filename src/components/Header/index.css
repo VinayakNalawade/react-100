@@ -1,0 +1,23 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: center;
+}
+
+.logoimg {
+  width: 28px;
+  margin-right: 8px;
+}
+
+.logoheading {
+  margin-right: 8px;
+  color: #551e53;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 18px;
+}
